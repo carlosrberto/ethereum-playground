@@ -1,3 +1,4 @@
 data
 build
-password.txt
+config/password.txt
+node_modules
