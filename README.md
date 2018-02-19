@@ -1,5 +1,7 @@
 # Ethereum Playground
 
+My playground for learning Ethereum and Smart Contracts
+
 ## Goals
 
 - Setup a private Ethereum network
